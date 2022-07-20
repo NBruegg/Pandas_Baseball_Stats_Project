@@ -6,4 +6,3 @@ Data acquired from: BaseballSavant.com
 Note: this project only utilizes data from the current 2022 MLB season.
 -
 * 7/20/2022 - The error show on line [43] resulted from accidentally running the cell after column 'year' was already deleted. 
--
