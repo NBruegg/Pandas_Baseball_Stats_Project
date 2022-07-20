@@ -1,5 +1,5 @@
 # Pandas_Baseball_Stats_Project
-Performing data cleaning and analysis on a dataset CSV from baseballsavant using the Pandas Python library.
+Purpose: performed data cleaning and analysis on a dataset CSV from baseballsavant using the Pandas Python library.
 -
 Data acquired from: BaseballSavant.com
 -
